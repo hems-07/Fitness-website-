@@ -24,7 +24,7 @@ html::-webkit-scrollbar {
 }
 
 html::-webkit-scrollbar-track {
-  background: var(--primary-color);
+  background: var(--tertiary-color);
 }
 
 html::-webkit-scrollbar-thumb {
